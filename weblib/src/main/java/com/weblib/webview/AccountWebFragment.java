@@ -4,6 +4,7 @@ import android.os.Bundle;
 
 /**
  * Created by xud on 2017/12/16.
+ * update cqs on 2020/10/11
  */
 
 public class AccountWebFragment extends BaseWebviewFragment {
